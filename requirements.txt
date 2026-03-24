@@ -1,0 +1,18 @@
+numpy
+pandas
+matplotlib
+seaborn
+python-dotenv
+chromadb
+langchain-openai
+langchain-community
+langchain-core
+langchain-classic 
+langchain-text-splitters
+
+# Embeddings
+langchain-huggingface
+sentence-transformers
+
+# for integrated intel gpu
+optimum[openvino,nncf]
