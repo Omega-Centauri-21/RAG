@@ -2,3 +2,4 @@
 .env
 /chroma_db
 /model_cache
+/#_data/LongMemEval

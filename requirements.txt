@@ -13,6 +13,8 @@ langchain-text-splitters
 # Embeddings
 langchain-huggingface
 sentence-transformers
+#faiss-gpu
+faiss-cpu
 
 # for integrated intel gpu
 optimum[openvino,nncf]
