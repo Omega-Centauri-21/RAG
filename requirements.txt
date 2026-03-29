@@ -7,14 +7,16 @@ chromadb
 langchain-openai
 langchain-community
 langchain-core
-langchain-classic 
+langchain-classic
 langchain-text-splitters
 
 # Embeddings
+transformers
+huggingface_hub[hf_xet]
 langchain-huggingface
 sentence-transformers
 #faiss-gpu
 faiss-cpu
 
 # for integrated intel gpu
-optimum[openvino,nncf]
+# optimum[openvino,nncf] # use it if you are using integrated graphics
