@@ -17,6 +17,7 @@ langchain-huggingface
 sentence-transformers
 #faiss-gpu
 faiss-cpu
+rank_bm25
 
 # for integrated intel gpu
 # optimum[openvino,nncf] # use it if you are using integrated graphics
