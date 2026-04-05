@@ -9,6 +9,7 @@ langchain-community
 langchain-core
 langchain-classic
 langchain-text-splitters
+langchain-experimental
 
 # Embeddings
 transformers
